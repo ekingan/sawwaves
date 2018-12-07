@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand_id: 1
+  model: MyString
+  description: MyText
+  product_status: 1
+  regular_price: 9.99
+  discount_price: 9.99
+  wholesale_price: 9.99
+  featured: false
+  product_type_id: 1
+  active: false
+
+two:
+  brand_id: 1
+  model: MyString
+  description: MyText
+  product_status: 1
+  regular_price: 9.99
+  discount_price: 9.99
+  wholesale_price: 9.99
+  featured: false
+  product_type_id: 1
+  active: false
